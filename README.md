@@ -10,3 +10,5 @@ Our solution is Aquamate. A monitoring and automatic feeding system for mass sca
 Please refer the documents for more information
 
 Visit <http://aquamate-global.web.app/>
+
+![AquaMate indoor unit](https://github.com/GevinduGanganath/AquaMate/blob/main/AquaMate%20Diagram.PNG)
