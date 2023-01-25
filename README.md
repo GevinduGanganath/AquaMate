@@ -12,3 +12,4 @@ Please refer the documents for more information
 Visit <http://aquamate-global.web.app/>
 
 ![AquaMate indoor unit](https://github.com/GevinduGanganath/AquaMate/blob/main/AquaMate%20Diagram.PNG)
+![AquaMate server](https://github.com/GevinduGanganath/AquaMate/blob/main/Server.jpg)
